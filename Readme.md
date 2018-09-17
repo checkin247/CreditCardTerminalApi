@@ -9,7 +9,7 @@ The API implements the ZVT protocoll which is commonly used in the "DACH" region
 *please refer to the interface specifications from the terminal you would like to connect to.
 Your Payment Service Provider (PSP) may provide additional information.
 
-Tested with CCV - OPP C60
+Tested with [CCV - OPP C60](https://www.ccv.eu/ch-de/home/produktuebersicht/terminals/automatenmodule/)
 
 ## Basic Protocol Structure
 
@@ -105,3 +105,8 @@ The command 'GetAbortedSessions' sends the content of this database in an interm
 
 If the aborted session was already processed by the client it can be removed from the server by using the 'RemoveAbortedSession' command and 
 providing the ID o the session in the 'Parameter' field. The result is sent back in the Success-Field of the intermediate state.
+
+## Licensing
+
+Copyright Key & Card AG
+[Product license available here](https://check24-7.in/kontakt/offerte)

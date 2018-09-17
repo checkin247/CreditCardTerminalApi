@@ -12,6 +12,6 @@ Ihr Zahlungsdienstleistungsanbieter (PSP) kann Ihnen diesbezüglich weitere Ausk
 
 Getestet mit:
 
-- CCV - OPP C60
+- [CCV - OPP C60](https://www.ccv.eu/ch-de/home/produktuebersicht/terminals/automatenmodule/)
 
 Die [Interfacebeschreibung finden Sie hier](../../Readme.md)
