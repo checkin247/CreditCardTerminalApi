@@ -41,9 +41,9 @@ The work flow is as follows:
 
 ```json
 {
-	"HttpStatus": "<the http state of the response>",
-	"Message": "<an optional message>",
-	"Proceed": "<bool - defining if the command has been acceptet and is executed>",
+    "HttpStatus": "<the http state of the response>",
+    "Message": "<an optional message>",
+    "Proceed": "<bool - defining if the command has been acceptet and is executed>",
     "SessionId": "<sessionid>"
 }
 ```
